@@ -1,6 +1,3 @@
----
-title: Happy Day Bidet! - The Ultimate Bathroom Upgrade
----
 <link rel="stylesheet" href="style.css">
 
 # Happy Day Bidet!
